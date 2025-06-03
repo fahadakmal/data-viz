@@ -14,7 +14,7 @@ A lightweight React-based application that allows users to upload CSV files and 
 
 ## 🖼️ Demo
 
-> _Coming soon or you can run it locally to see in action._
+👉 Try it out here: [https://data-viz-seven.vercel.app/](https://data-viz-seven.vercel.app/)
 
 ---
 
